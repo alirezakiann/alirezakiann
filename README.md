@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Alireza Kian 👋 
+### Industrial Engineering Graduate & Aspiring Data Analyst
 
-<!--
-**alirezakiann/alirezakiann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Former Industrial Engineering student at the **University of Tehran** with a strong foundation in process optimization, statistical analysis, and systems thinking. Passionate about translating complex data into actionable business insights.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+- **Data Analysis & Querying:** SQL (PostgreSQL, DuckDB), Python (Pandas, NumPy)
+- **Data Visualization & BI:** Power BI, Looker Studio, Seaborn, Matplotlib, Plotly
+- **Machine Learning:** Scikit-learn (Regression, Classification, Clustering)
+- **Optimization & Modeling:** Advanced Excel, Linear Programming
+
+---
+
+### 📌 Featured Portfolio Projects
+
+#### 1. 📊 [Telco Customer Churn & Profitability Analytics](https://github.com/YOUR_USERNAME/Customer-Churn-Analytics-ML)
+- **Tech Stack:** Python, SQL (MotherDuck), Scikit-learn, Seaborn
+- **Summary:** End-to-end data project predicting high-risk churn customers with 81% accuracy using Random Forest, saving preventable monthly revenue loss.
+
+---
+
+### 📫 How to Reach Me:
+- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- **Email:** reza.1379.ali@gmail.com
