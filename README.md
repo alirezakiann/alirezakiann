@@ -15,11 +15,11 @@ Former Industrial Engineering student at the **University of Tehran** with a str
 
 ### 📌 Featured Portfolio Projects
 
-#### 1. 📊 [Telco Customer Churn & Profitability Analytics](https://github.com/YOUR_USERNAME/Customer-Churn-Analytics-ML)
+#### 1. 📊 [Telco Customer Churn & Profitability Analytics](https://github.com/alirezakiann/Customer-Churn-Analytics-ML)
 - **Tech Stack:** Python, SQL (MotherDuck), Scikit-learn, Seaborn
 - **Summary:** End-to-end data project predicting high-risk churn customers with 81% accuracy using Random Forest, saving preventable monthly revenue loss.
 
-#### 2. 📊 [olist-supply-chain-analysis](https://github.com/YOUR_USERNAME/olist-supply-chain-analysis)
+#### 2. 📊 [olist-supply-chain-analysis](https://github.com/alirezakiann/olist-supply-chain-analysis)
 
 ---
 
