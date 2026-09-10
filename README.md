@@ -22,5 +22,5 @@ Former Industrial Engineering student at the **University of Tehran** with a str
 ---
 
 ### 📫 How to Reach Me:
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- **instagram:**(https://instagram.com/kianeest)
 - **Email:** reza.1379.ali@gmail.com
