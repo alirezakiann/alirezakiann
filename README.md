@@ -19,6 +19,8 @@ Former Industrial Engineering student at the **University of Tehran** with a str
 - **Tech Stack:** Python, SQL (MotherDuck), Scikit-learn, Seaborn
 - **Summary:** End-to-end data project predicting high-risk churn customers with 81% accuracy using Random Forest, saving preventable monthly revenue loss.
 
+#### 2. 📊https://github.com/alirezakiann/olist-supply-chain-analysis
+
 ---
 
 ### 📫 How to Reach Me:
