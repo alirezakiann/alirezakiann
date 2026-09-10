@@ -20,7 +20,8 @@ Former Industrial Engineering student at the **University of Tehran** with a str
 - **Summary:** End-to-end data project predicting high-risk churn customers with 81% accuracy using Random Forest, saving preventable monthly revenue loss.
 
 #### 2. 📊 [olist-supply-chain-analysis](https://github.com/alirezakiann/olist-supply-chain-analysis)
-
+- **Tech Stack:**  SQL, Excel and Power BI
+- **Summary:** End-to-end supply chain analysis of 96k Brazilian e-commerce orders using SQL, Excel and Power BI
 ---
 
 ### 📫 How to Reach Me:
